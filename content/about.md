@@ -2,7 +2,7 @@
 date = '2025-10-30T12:41:19+05:30'
 title = 'About'
 +++
-{{< figure src="https://media.licdn.com/dms/image/v2/D5603AQEAJ0AD4i_zIA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1681229831848?e=1763596800&v=beta&t=jNVibWl2L4inZq3Xx5ZkVT5bLzQxqQTorT2WpVaDP0Q" title="Kalarani Lakshmanan" >}}
+{{< figure src="/images/Kala.jpeg" title="Kalarani Lakshmanan" >}}
 
 Hi there, My name is Kalarani. I live in Chennai, TamilNadu.
 
