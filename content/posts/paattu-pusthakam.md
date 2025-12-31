@@ -10,7 +10,7 @@ My daughter is learning Carnatic vocal music. While the music itself is rich and
 
 This creates unnecessary dependency on mobile phones, distractions, and messaging apps.
 
-To simplify this, I built [Paattu Pusthakam](https://kalarani.github.io/paattu-pusthakam) — a static site that serves as a single source of truth for students of this academy.
+To simplify this, I built [Paattu Pusthakam](https://suha-academy.github.io/paattu-pusthakam) — a static site that serves as a single source of truth for students of this academy.
 
 * A simple Hugo-based site listing songs
 * Searchable content
